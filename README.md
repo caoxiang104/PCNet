@@ -3,14 +3,14 @@ Pytorch implementation of "Blind Image Super-Resolution Based on Prior Correctio
 
 
 ## Overview
-
+Prior Correction Network
 <p align="center"> <img src="figs/model.png" width="100%"> </p>
 
+Kernel Estimate Network
+<p align="center"> <img src="figs/KernelEstimate.png" width="80%"></p>
 
-<p align="center"> <img src="figs/KernelEstimate.png" width="40%"><img src="figs/RefineNet.png" width="40%"> </p>
-
-
-<p align="center"> <img src="figs/RefineNet.png" width="40%"> </p>
+Correction Refinement Network
+<p align="center"> <img src="figs/RefineNet.png" width="80%" </p>
 
 
 ## Requirements
