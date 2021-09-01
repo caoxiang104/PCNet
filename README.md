@@ -35,7 +35,18 @@ Run `src/demo.sh` to train or test your dataset.
 
 ## Citation
 ```
-
+@article{cao2021blind,
+  title={Blind Image Super-Resolution Based on Prior Correction Network},
+  author={Cao, Xiang and Luo, Yihao and Xiao, Yi and Zhu, Xianyi and Wang, Tianjiang and Feng, Qi and Tan, Zehan},
+  journal={Neurocomputing},
+  volume = {463},
+  pages = {525-534},
+  year={2021},
+  issn = {0925-2312},
+  doi = {https://doi.org/10.1016/j.neucom.2021.07.070},
+  url = {https://www.sciencedirect.com/science/article/pii/S0925231221011462},
+  publisher={Elsevier}
+}
 ```
 
 ## Acknowledgements
